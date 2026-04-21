@@ -1,6 +1,6 @@
 # 📊 Análisis de Ventas Online Retail
 
-**Autor:** Franco  
+**Autor:** Franco Casalis
 **Curso:** Herramientas para el análisis de datos  
 
 ---
@@ -27,14 +27,5 @@ Dataset de ventas online con información de productos, cantidades, precios y pa
 
 ---
 
-## 📊 Dashboard
 
-![Dashboard](dashboard/dashboard.png)
-
----
-
-## 💡 Conclusiones
-
-- Las ventas cambian a lo largo del tiempo  
-- Algunos países concentran los ingresos  
-- Algunos productos venden mucho más que otros  
+ 
