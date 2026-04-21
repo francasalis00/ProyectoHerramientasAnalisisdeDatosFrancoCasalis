@@ -53,7 +53,7 @@ https://github.com/francasalis00/ProyectoHerramientasAnalisisdeDatosFrancoCasali
 /blob/main/dashboard/dashboard_ventas.pbix  
 
 - Vista previa del dashboard:  
-![Dashboard](<img width="746" height="432" alt="Captura de pantalla 2026-04-21 193851" src="https://github.com/user-attachments/assets/6fdbe9a3-c83d-4fc7-a9a1-f0f8d4b4301e" />
+![Dashboard](<img width="746" height="432" alt="Captura de pantalla 2026-04-21 193851" src="https://github.com/user-attachments/assets/dfd6daad-38d8-42ae-b275-a434c92d9a65" />
 )
 
 ---
